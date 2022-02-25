@@ -16,6 +16,15 @@ body{
     margin-right: auto;
 }
 
+.gambar-logo {
+  width: 500px;
+  height: 400px;
+  display: block;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .about{
     align-items: center;
 }
